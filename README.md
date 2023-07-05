@@ -5,8 +5,11 @@ It generates and visualizers some of the zeros of the Riemann zeta function as s
 ![graph](zeros.png "zeros")
 
 #### How to run:
-`pip install mpmath`
-`pip install matplotlib`
-`pip install numpy`
-`python riemann.py`
+1. `pip install mpmath`
+
+2. `pip install matplotlib`
+
+3. `pip install numpy`
+
+4. `python riemann.py`
 
